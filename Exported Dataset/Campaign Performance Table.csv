@@ -1,0 +1,7 @@
+﻿Campaign,Channel,Target Segment,Sum of Budget,Sum of Impressions,Sum of CTR,Sum of Clicks,Sum of Conversion Rate,Sum of Conversions,Sum of Revenue,Sum of ROAS,Status
+Flash Sale,Instagram,Gold,$3500,$87500,0.05,$4375,0.08,350,$49308.39,14.09,Excellent
+Free Shipping,WhatsApp,Bronze,$1000,$25000,0.07,$1750,0.04,70,$9861.68,9.86,Good
+Loyalty Program,Email,VIP,$5000,$125000,0.08,$10000,0.1,1000,$140881.1,28.18,Excellent
+Summer Sale,Email,VIP,$5000,$125000,0.08,$10000,0.1,1000,$140881.1,28.18,Excellent
+Weekend Sale,Instagram,Silver,$2000,$50000,0.05,$2500,0.06,150,$21132.17,10.57,Excellent
+Welcome Offer,Facebook,New / Low Value,$500,$12500,0.03,$375,0.02,8,$1127.05,2.25,Needs Improvement
