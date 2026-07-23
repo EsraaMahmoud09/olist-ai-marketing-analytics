@@ -196,8 +196,6 @@ This dataset can be used for:
 
 * Sales Performance Analysis
 * Customer Segmentation
-* Customer Lifetime Value (CLV)
-* Churn Prediction
 * Marketing Campaign Analysis
 * Recommendation Systems
 * Delivery Performance Analysis
@@ -233,9 +231,7 @@ This dataset is suitable for:
 
 * Power BI
 * Python
-* SQL
 * Excel
-* Tableau
 * Machine Learning
 * Deep Learning
 * AI Agents
@@ -249,9 +245,29 @@ This dataset is suitable for:
 Original Dataset:
 
 Brazilian E-Commerce Public Dataset by Olist (Kaggle).
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
 # License
 
-This dataset is distributed under the **CC BY-NC-SA 4.0** license. Please refer to the original Kaggle dataset page for complete licensing information.
+This dataset is distributed under the **MIT License** license. Please refer to the original Kaggle dataset page for complete licensing information.
+
+---
+
+## About the Author
+
+**Esraa Shawky**  
+AI Engineer | Data Analyst | Business Intelligence Developer
+
+📧 **Email:** esraashawky09@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/esraa-mahmoud22 
+💻 **GitHub:** https://github.com/your-username
+
+---
+
+> **Developed for educational and portfolio purposes as part of the Novartis AI Internship Challenge.**
+
+This project demonstrates an **AI Marketing Analytics & Decision Support System** built using **Power BI, GitHub, Google Gemini, and n8n** to analyze marketing performance, generate strategic recommendations, and automate executive reporting.
+
+
