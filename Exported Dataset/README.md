@@ -18,17 +18,40 @@ The exported files may include:
  - Product_Performance.csv
  - Campaign_Performance.csv
 
-## Workflow
-
-Power BI Dashboard
-        ↓
-Export Data (.csv)
-        ↓
-Exported Dataset
-        ↓
-n8n AI Workflow
-        ↓
-AI Analysis & Recommendations
+Power BI
+      │
+      ▼
+Export CSV
+      │
+      ▼
+GitHub Repository
+      │
+      ▼
+n8n Workflow
+      │
+      ▼
+Read CSV Files from GitHub
+      │
+      ▼
+Merge Data
+      │
+      ▼
+AI Agent (OpenAI / Gemini)
+      │
+      ▼
+Evaluate Campaign Performance
+      │
+      ├── KPI Analysis
+      ├── Customer Segment Advisor
+      ├── Churn Alert
+      ├── Repeat Purchase Analysis
+      ├── Product Recommendation
+      ├── Campaign Recommendation
+      ├── Content Generator
+      └── Executive Report
+      │
+      ▼
+Save Report (GitHub / Google Drive / Email / Notion)
 
 ## Purpose
 
